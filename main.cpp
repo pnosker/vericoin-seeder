@@ -342,7 +342,7 @@ extern "C" void* ThreadStats(void*) {
   } while(1);
 }
 
-static const string mainnet_seeds[] = {"supernode.vericoin.info", "supernode2.vericoin.info", "supernode3.vericoin.info", ""};
+static const string mainnet_seeds[] = {"supernode.vericoin.info", "supernode2.vericoin.info", "supernode3.vericoin.info", "supernode4.vericoin.info", "supernode5.vericoin.info", ""};
 static const string testnet_seeds[] = {"testnet-seed.vericoin.info", ""};
 static const string *seeds = mainnet_seeds;
 
